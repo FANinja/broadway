@@ -33,12 +33,12 @@ p {
   font-size: 14px;
 }
 
+.footer, .footer1 {
+  text-align: left;
+}
+
 .footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
-}
-
-.footer, .footer1 {
-  text-align: left;
 }
